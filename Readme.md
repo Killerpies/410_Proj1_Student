@@ -42,8 +42,8 @@ corrupted, but ignore those for now. Please discard corrupted rows.
 ## Running project
 
 The main() function resides in fileio.cpp. It runs several tests against
-utilities.cpp. Currently it generates a grade of 0, your task is to get
-this to 100 by correctly filling in content to utilities.cpp.
+utilities.cpp. Currently it generates a grade of 0, your job is to get
+this to 100 by correctly filling in content in utilities.cpp.
 
 ## Your task
 
